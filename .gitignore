@@ -1,2 +1,3 @@
 # gitignore foothello-prosjektet
 .idea/*
+target/*
